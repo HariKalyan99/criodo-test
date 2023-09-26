@@ -3,3 +3,4 @@ fintech
 medtech
 govtech
 finance
+wearable devices
