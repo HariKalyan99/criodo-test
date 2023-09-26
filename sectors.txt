@@ -1,0 +1,4 @@
+healthcare
+fintech
+medtech
+govtech
